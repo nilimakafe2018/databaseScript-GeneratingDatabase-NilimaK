@@ -40,3 +40,4 @@ INSERT INTO library_resources (item_type, title, is_checked_out, course_id) VALU
     ('Documentary', 'History of Albania', 1, 2),
     ('Art Book', 'On Leonardo da Vinci', 1, 3);
 
+COMMIT;
